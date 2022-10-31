@@ -70,5 +70,4 @@ class User(object):
 
 
 class UserRegistry(object):
-
-    def
+    pass
